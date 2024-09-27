@@ -1,4 +1,4 @@
-package com.tavrovsky
+package _88_MergeSortedArray
 
 fun main() {
     val nums1 : IntArray = intArrayOf(4,5,6,0,0,0)
