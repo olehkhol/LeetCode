@@ -15,8 +15,6 @@ class Solution {
         val size = prices.size
         if (size < 2) return 0
 
-        val middle = size / 2
-
         var min = prices[0]
         var profit = 0
 
